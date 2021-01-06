@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name IC_LM_324)(type Legacy)(uri ${KIPRJMOD}/IC_LM_324.lib)(options "")(descr ""))
+  (lib (name lm324)(type Legacy)(uri /home/dhairya/lm324.lib)(options "")(descr ""))
+)
